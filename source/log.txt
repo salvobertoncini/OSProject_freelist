@@ -1,0 +1,2403 @@
+Simulazione effettuata in data 14/07/2015 alle ore 09:38:44
+
+IMMETTI NUMERO SIMULAZIONI
+
+hai scelto di fare 1 simulazioni
+
+############################## simulazione numero 1 ##############################
+26 processi iniziali
+ingresso: 17	dimensione: 2985	tempo esecuzione: 29
+ingresso: 11	dimensione: 963	tempo esecuzione: 29
+ingresso: 12	dimensione: 2602	tempo esecuzione: 24
+ingresso: 3	dimensione: 3391	tempo esecuzione: 21
+ingresso: 2	dimensione: 935	tempo esecuzione: 28
+ingresso: 6	dimensione: 2175	tempo esecuzione: 25
+ingresso: 12	dimensione: 4870	tempo esecuzione: 27
+ingresso: 7	dimensione: 2291	tempo esecuzione: 39
+ingresso: 6	dimensione: 2587	tempo esecuzione: 33
+ingresso: 13	dimensione: 1041	tempo esecuzione: 20
+ingresso: 14	dimensione: 956	tempo esecuzione: 31
+ingresso: 18	dimensione: 1517	tempo esecuzione: 21
+ingresso: 14	dimensione: 3163	tempo esecuzione: 32
+ingresso: 2	dimensione: 1669	tempo esecuzione: 29
+ingresso: 1	dimensione: 2499	tempo esecuzione: 29
+ingresso: 1	dimensione: 3428	tempo esecuzione: 26
+ingresso: 8	dimensione: 3319	tempo esecuzione: 31
+ingresso: 14	dimensione: 4950	tempo esecuzione: 22
+ingresso: 11	dimensione: 3050	tempo esecuzione: 34
+ingresso: 1	dimensione: 4297	tempo esecuzione: 25
+ingresso: 17	dimensione: 3537	tempo esecuzione: 40
+ingresso: 4	dimensione: 4041	tempo esecuzione: 21
+ingresso: 14	dimensione: 3159	tempo esecuzione: 28
+ingresso: 7	dimensione: 1542	tempo esecuzione: 32
+ingresso: 20	dimensione: 1338	tempo esecuzione: 26
+ingresso: 19	dimensione: 4813	tempo esecuzione: 22
+
+
+26 processi ordinati per ingresso
+ingresso: 1	dimensione: 2499	tempo esecuzione: 29
+ingresso: 1	dimensione: 3428	tempo esecuzione: 26
+ingresso: 1	dimensione: 4297	tempo esecuzione: 25
+ingresso: 2	dimensione: 935	tempo esecuzione: 28
+ingresso: 2	dimensione: 1669	tempo esecuzione: 29
+ingresso: 3	dimensione: 3391	tempo esecuzione: 21
+ingresso: 4	dimensione: 4041	tempo esecuzione: 21
+ingresso: 6	dimensione: 2175	tempo esecuzione: 25
+ingresso: 6	dimensione: 2587	tempo esecuzione: 33
+ingresso: 7	dimensione: 2291	tempo esecuzione: 39
+ingresso: 7	dimensione: 1542	tempo esecuzione: 32
+ingresso: 8	dimensione: 3319	tempo esecuzione: 31
+ingresso: 11	dimensione: 963	tempo esecuzione: 29
+ingresso: 11	dimensione: 3050	tempo esecuzione: 34
+ingresso: 12	dimensione: 2602	tempo esecuzione: 24
+ingresso: 12	dimensione: 4870	tempo esecuzione: 27
+ingresso: 13	dimensione: 1041	tempo esecuzione: 20
+ingresso: 14	dimensione: 956	tempo esecuzione: 31
+ingresso: 14	dimensione: 3163	tempo esecuzione: 32
+ingresso: 14	dimensione: 4950	tempo esecuzione: 22
+ingresso: 14	dimensione: 3159	tempo esecuzione: 28
+ingresso: 17	dimensione: 2985	tempo esecuzione: 29
+ingresso: 17	dimensione: 3537	tempo esecuzione: 40
+ingresso: 18	dimensione: 1517	tempo esecuzione: 21
+ingresso: 19	dimensione: 4813	tempo esecuzione: 22
+ingresso: 20	dimensione: 1338	tempo esecuzione: 26
+
+@@@@@@@@@@ FIRST FIT @@@@@@@@@@
+
+
+ALLOCAZIONE FALLITA! IMPOSSIBILE ESEGUIRE ALCUN PROCESSO CAUSA CLOCK: 
+stampa della memoria!
+
+# 20480 #	
+
+clock: 1
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 1
+stampa della memoria!
+
+| 2499 |	
+# 17981 #	
+
+clock: 2
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 1
+stampa della memoria!
+
+| 2499 |	
+| 3428 |	
+# 14553 #	
+
+clock: 3
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 1
+stampa della memoria!
+
+| 2499 |	
+| 3428 |	
+| 4297 |	
+# 10256 #	
+
+clock: 4
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 2
+stampa della memoria!
+
+| 2499 |	
+| 3428 |	
+| 4297 |	
+| 935 |	
+# 9321 #	
+
+clock: 5
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 2
+stampa della memoria!
+
+| 2499 |	
+| 3428 |	
+| 4297 |	
+| 935 |	
+| 1669 |	
+# 7652 #	
+
+clock: 6
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 3
+stampa della memoria!
+
+| 2499 |	
+| 3428 |	
+| 4297 |	
+| 935 |	
+| 1669 |	
+| 3391 |	
+# 4261 #	
+
+clock: 7
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 4
+stampa della memoria!
+
+| 2499 |	
+| 3428 |	
+| 4297 |	
+| 935 |	
+| 1669 |	
+| 3391 |	
+| 4041 |	
+# 220 #	
+
+clock: 8
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 9
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 10
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 11
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 12
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 13
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 14
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 15
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 16
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 17
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 18
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 19
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 20
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 21
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 22
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 23
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 24
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 25
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 26
+
+lifetime: 26
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 220dimensione blocchi: 220
+frammentazione esterna: 0
+
+clock: 27
+
+lifetime: 26
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 2499 |	
+| 3428 |	
+| 4297 |	
+| 935 |	
+| 1669 |	
+# 3391 #	
+| 4041 |	
+# 220 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 6
+stampa della memoria!
+
+| 2499 |	
+| 3428 |	
+| 4297 |	
+| 935 |	
+| 1669 |	
+| 2175 |	
+# 1216 #	
+| 4041 |	
+# 220 #	
+
+clock: 28
+
+lifetime: 25
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 2499 |	
+# 3428 #	
+| 4297 |	
+| 935 |	
+| 1669 |	
+| 2175 |	
+# 1216 #	
+| 4041 |	
+# 220 #	
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 2499 |	
+# 7725 #	
+| 935 |	
+| 1669 |	
+| 2175 |	
+# 1216 #	
+| 4041 |	
+# 220 #	
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 2499 |	
+# 7725 #	
+| 935 |	
+| 1669 |	
+| 2175 |	
+# 5477 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 6
+stampa della memoria!
+
+| 2499 |	
+| 2587 |	
+# 5138 #	
+| 935 |	
+| 1669 |	
+| 2175 |	
+# 5477 #	
+
+clock: 29
+
+lifetime: 22
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 7
+stampa della memoria!
+
+| 2499 |	
+| 2587 |	
+| 2291 |	
+# 2847 #	
+| 935 |	
+| 1669 |	
+| 2175 |	
+# 5477 #	
+
+clock: 30
+
+lifetime: 22
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+# 2499 #	
+| 2587 |	
+| 2291 |	
+# 2847 #	
+| 935 |	
+| 1669 |	
+| 2175 |	
+# 5477 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 7
+stampa della memoria!
+
+| 1542 |	
+# 957 #	
+| 2587 |	
+| 2291 |	
+# 2847 #	
+| 935 |	
+| 1669 |	
+| 2175 |	
+# 5477 #	
+
+clock: 31
+
+lifetime: 21
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 8
+stampa della memoria!
+
+| 1542 |	
+# 957 #	
+| 2587 |	
+| 2291 |	
+# 2847 #	
+| 935 |	
+| 1669 |	
+| 2175 |	
+| 3319 |	
+# 2158 #	
+
+clock: 32
+
+lifetime: 21
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 1542 |	
+# 957 #	
+| 2587 |	
+| 2291 |	
+# 3782 #	
+| 1669 |	
+| 2175 |	
+| 3319 |	
+# 2158 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 11
+stampa della memoria!
+
+| 1542 |	
+# 957 #	
+| 2587 |	
+| 2291 |	
+| 963 |	
+# 2819 #	
+| 1669 |	
+| 2175 |	
+| 3319 |	
+# 2158 #	
+
+clock: 33
+
+lifetime: 20
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2819dimensione blocchi: 5934
+2819  5934
+frammentazione esterna: 0.524941017863
+
+clock: 34
+
+lifetime: 20
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 1542 |	
+# 957 #	
+| 2587 |	
+| 2291 |	
+| 963 |	
+# 4488 #	
+| 2175 |	
+| 3319 |	
+# 2158 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 11
+stampa della memoria!
+
+| 1542 |	
+# 957 #	
+| 2587 |	
+| 2291 |	
+| 963 |	
+| 3050 |	
+# 1438 #	
+| 2175 |	
+| 3319 |	
+# 2158 #	
+
+clock: 35
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 36
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 37
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 38
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 39
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 40
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 41
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 42
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 43
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 44
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 45
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 46
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 47
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 48
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 49
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 50
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 51
+
+lifetime: 19
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4553
+2158  4553
+frammentazione esterna: 0.526026795519
+
+clock: 52
+
+lifetime: 19
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 1542 |	
+# 957 #	
+| 2587 |	
+| 2291 |	
+| 963 |	
+| 3050 |	
+# 3613 #	
+| 3319 |	
+# 2158 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 12
+stampa della memoria!
+
+| 1542 |	
+# 957 #	
+| 2587 |	
+| 2291 |	
+| 963 |	
+| 3050 |	
+| 2602 |	
+# 1011 #	
+| 3319 |	
+# 2158 #	
+
+clock: 53
+
+lifetime: 18
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4126
+frammentazione esterna: 0
+
+clock: 54
+
+lifetime: 18
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4126
+frammentazione esterna: 0
+
+clock: 55
+
+lifetime: 18
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4126
+frammentazione esterna: 0
+
+clock: 56
+
+lifetime: 18
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4126
+frammentazione esterna: 0
+
+clock: 57
+
+lifetime: 18
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4126
+frammentazione esterna: 0
+
+clock: 58
+
+lifetime: 18
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4126
+frammentazione esterna: 0
+
+clock: 59
+
+lifetime: 18
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4126
+frammentazione esterna: 0
+
+clock: 60
+
+lifetime: 18
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2158dimensione blocchi: 4126
+frammentazione esterna: 0
+
+clock: 61
+
+lifetime: 18
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 1542 |	
+# 3544 #	
+| 2291 |	
+| 963 |	
+| 3050 |	
+| 2602 |	
+# 1011 #	
+| 3319 |	
+# 2158 #	
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 1542 |	
+# 3544 #	
+| 2291 |	
+# 963 #	
+| 3050 |	
+| 2602 |	
+# 1011 #	
+| 3319 |	
+# 2158 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 3544dimensione blocchi: 7676
+3544  7676
+frammentazione esterna: 0.538301198541
+
+clock: 62
+
+lifetime: 16
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+# 5086 #	
+| 2291 |	
+# 963 #	
+| 3050 |	
+| 2602 |	
+# 1011 #	
+| 3319 |	
+# 2158 #	
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+# 5086 #	
+| 2291 |	
+# 963 #	
+| 3050 |	
+| 2602 |	
+# 6488 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 12
+stampa della memoria!
+
+| 4870 |	
+# 216 #	
+| 2291 |	
+# 963 #	
+| 3050 |	
+| 2602 |	
+# 6488 #	
+
+clock: 63
+
+lifetime: 14
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 13
+stampa della memoria!
+
+| 4870 |	
+# 216 #	
+| 2291 |	
+# 963 #	
+| 3050 |	
+| 2602 |	
+| 1041 |	
+# 5447 #	
+
+clock: 64
+
+lifetime: 14
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 14
+stampa della memoria!
+
+| 4870 |	
+# 216 #	
+| 2291 |	
+| 956 |	
+# 7 #	
+| 3050 |	
+| 2602 |	
+| 1041 |	
+# 5447 #	
+
+clock: 65
+
+lifetime: 14
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 14
+stampa della memoria!
+
+| 4870 |	
+# 216 #	
+| 2291 |	
+| 956 |	
+# 7 #	
+| 3050 |	
+| 2602 |	
+| 1041 |	
+| 3163 |	
+# 2284 #	
+
+clock: 66
+
+lifetime: 14
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2284dimensione blocchi: 2507
+frammentazione esterna: 0
+
+clock: 67
+
+lifetime: 14
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+siamo al passo 8
+siamo al passo 9
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2284dimensione blocchi: 2507
+frammentazione esterna: 0
+
+clock: 68
+
+lifetime: 14
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 4870 |	
+# 2507 #	
+| 956 |	
+# 7 #	
+| 3050 |	
+| 2602 |	
+| 1041 |	
+| 3163 |	
+# 2284 #	
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 4870 |	
+# 2507 #	
+| 956 |	
+# 3057 #	
+| 2602 |	
+| 1041 |	
+| 3163 |	
+# 2284 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 3057dimensione blocchi: 7848
+3057  7848
+frammentazione esterna: 0.610474006116
+
+clock: 69
+
+lifetime: 12
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 3057dimensione blocchi: 7848
+3057  7848
+frammentazione esterna: 0.610474006116
+
+clock: 70
+
+lifetime: 12
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 3057dimensione blocchi: 7848
+3057  7848
+frammentazione esterna: 0.610474006116
+
+clock: 71
+
+lifetime: 12
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 3057dimensione blocchi: 7848
+3057  7848
+frammentazione esterna: 0.610474006116
+
+clock: 72
+
+lifetime: 12
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 3057dimensione blocchi: 7848
+3057  7848
+frammentazione esterna: 0.610474006116
+
+clock: 73
+
+lifetime: 12
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 3057dimensione blocchi: 7848
+3057  7848
+frammentazione esterna: 0.610474006116
+
+clock: 74
+
+lifetime: 12
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 3057dimensione blocchi: 7848
+3057  7848
+frammentazione esterna: 0.610474006116
+
+clock: 75
+
+lifetime: 12
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 3057dimensione blocchi: 7848
+3057  7848
+frammentazione esterna: 0.610474006116
+
+clock: 76
+
+lifetime: 12
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 4870 |	
+# 2507 #	
+| 956 |	
+# 5659 #	
+| 1041 |	
+| 3163 |	
+# 2284 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 14
+stampa della memoria!
+
+| 4870 |	
+# 2507 #	
+| 956 |	
+| 4950 |	
+# 709 #	
+| 1041 |	
+| 3163 |	
+# 2284 #	
+
+clock: 77
+
+lifetime: 11
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2507dimensione blocchi: 5500
+2507  5500
+frammentazione esterna: 0.544181818182
+
+clock: 78
+
+lifetime: 11
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2507dimensione blocchi: 5500
+2507  5500
+frammentazione esterna: 0.544181818182
+
+clock: 79
+
+lifetime: 11
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2507dimensione blocchi: 5500
+2507  5500
+frammentazione esterna: 0.544181818182
+
+clock: 80
+
+lifetime: 11
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2507dimensione blocchi: 5500
+2507  5500
+frammentazione esterna: 0.544181818182
+
+clock: 81
+
+lifetime: 11
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2507dimensione blocchi: 5500
+2507  5500
+frammentazione esterna: 0.544181818182
+
+clock: 82
+
+lifetime: 11
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2507dimensione blocchi: 5500
+2507  5500
+frammentazione esterna: 0.544181818182
+
+clock: 83
+
+lifetime: 11
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 4870 |	
+# 2507 #	
+| 956 |	
+| 4950 |	
+# 1750 #	
+| 3163 |	
+# 2284 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2507dimensione blocchi: 6541
+2507  6541
+frammentazione esterna: 0.616725271365
+
+clock: 84
+
+lifetime: 10
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2507dimensione blocchi: 6541
+2507  6541
+frammentazione esterna: 0.616725271365
+
+clock: 85
+
+lifetime: 10
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2507dimensione blocchi: 6541
+2507  6541
+frammentazione esterna: 0.616725271365
+
+clock: 86
+
+lifetime: 10
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2507dimensione blocchi: 6541
+2507  6541
+frammentazione esterna: 0.616725271365
+
+clock: 87
+
+lifetime: 10
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2507dimensione blocchi: 6541
+2507  6541
+frammentazione esterna: 0.616725271365
+
+clock: 88
+
+lifetime: 10
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2507dimensione blocchi: 6541
+2507  6541
+frammentazione esterna: 0.616725271365
+
+clock: 89
+
+lifetime: 10
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+# 7377 #	
+| 956 |	
+| 4950 |	
+# 1750 #	
+| 3163 |	
+# 2284 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 14
+stampa della memoria!
+
+| 3159 |	
+# 4218 #	
+| 956 |	
+| 4950 |	
+# 1750 #	
+| 3163 |	
+# 2284 #	
+
+clock: 90
+
+lifetime: 9
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 17
+stampa della memoria!
+
+| 3159 |	
+| 2985 |	
+# 1233 #	
+| 956 |	
+| 4950 |	
+# 1750 #	
+| 3163 |	
+# 2284 #	
+
+clock: 91
+
+lifetime: 9
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2284dimensione blocchi: 5267
+2284  5267
+frammentazione esterna: 0.566356559711
+
+clock: 92
+
+lifetime: 9
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2284dimensione blocchi: 5267
+2284  5267
+frammentazione esterna: 0.566356559711
+
+clock: 93
+
+lifetime: 9
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2284dimensione blocchi: 5267
+2284  5267
+frammentazione esterna: 0.566356559711
+
+clock: 94
+
+lifetime: 9
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+siamo al passo 7
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2284dimensione blocchi: 5267
+2284  5267
+frammentazione esterna: 0.566356559711
+
+clock: 95
+
+lifetime: 9
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 3159 |	
+| 2985 |	
+# 2189 #	
+| 4950 |	
+# 1750 #	
+| 3163 |	
+# 2284 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2284dimensione blocchi: 6223
+2284  6223
+frammentazione esterna: 0.632974449622
+
+clock: 96
+
+lifetime: 8
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+comodo non e' diventato 1
+entro nella verifica della frammentazione
+questo e' il blocco max: 2284dimensione blocchi: 6223
+2284  6223
+frammentazione esterna: 0.632974449622
+
+clock: 97
+
+lifetime: 8
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 3159 |	
+| 2985 |	
+# 2189 #	
+| 4950 |	
+# 7197 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 17
+stampa della memoria!
+
+| 3159 |	
+| 2985 |	
+# 2189 #	
+| 4950 |	
+| 3537 |	
+# 3660 #	
+
+clock: 98
+
+lifetime: 7
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+| 3159 |	
+| 2985 |	
+# 7139 #	
+| 3537 |	
+# 3660 #	
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 18
+stampa della memoria!
+
+| 3159 |	
+| 2985 |	
+| 1517 |	
+# 5622 #	
+| 3537 |	
+# 3660 #	
+
+clock: 99
+
+lifetime: 6
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 19
+stampa della memoria!
+
+| 3159 |	
+| 2985 |	
+| 1517 |	
+| 4813 |	
+# 809 #	
+| 3537 |	
+# 3660 #	
+
+clock: 100
+
+lifetime: 6
+ci sono processi che possono entrare perche' minori del clock
+siamo al passo 0
+siamo al passo 1
+siamo al passo 2
+siamo al passo 3
+siamo al passo 4
+siamo al passo 5
+siamo al passo 6
+esiste un blocco vuoto e abbastanza capiente
+
+processo selezionato: 20
+stampa della memoria!
+
+| 3159 |	
+| 2985 |	
+| 1517 |	
+| 4813 |	
+# 809 #	
+| 3537 |	
+| 1338 |	
+# 2322 #	
+
+clock: 101
+
+lifetime: 6
+
+clock: 102
+
+lifetime: 6
+
+clock: 103
+
+lifetime: 6
+
+clock: 104
+
+lifetime: 6
+
+clock: 105
+
+lifetime: 6
+
+clock: 106
+
+lifetime: 6
+
+clock: 107
+
+lifetime: 6
+
+clock: 108
+
+lifetime: 6
+
+clock: 109
+
+lifetime: 6
+
+clock: 110
+
+lifetime: 6
+
+clock: 111
+
+lifetime: 6
+
+clock: 112
+
+lifetime: 6
+
+clock: 113
+
+lifetime: 6
+
+clock: 114
+
+lifetime: 6
+
+clock: 115
+
+lifetime: 6
+
+clock: 116
+
+lifetime: 6
+
+clock: 117
+
+lifetime: 6
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+# 3159 #	
+| 2985 |	
+| 1517 |	
+| 4813 |	
+# 809 #	
+| 3537 |	
+| 1338 |	
+# 2322 #	
+
+clock: 118
+
+lifetime: 5
+
+clock: 119
+
+lifetime: 5
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+# 6144 #	
+| 1517 |	
+| 4813 |	
+# 809 #	
+| 3537 |	
+| 1338 |	
+# 2322 #	
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+# 7661 #	
+| 4813 |	
+# 809 #	
+| 3537 |	
+| 1338 |	
+# 2322 #	
+
+clock: 120
+
+lifetime: 3
+
+clock: 121
+
+lifetime: 3
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+# 13283 #	
+| 3537 |	
+| 1338 |	
+# 2322 #	
+
+clock: 122
+
+lifetime: 2
+
+clock: 123
+
+lifetime: 2
+
+clock: 124
+
+lifetime: 2
+
+clock: 125
+
+lifetime: 2
+
+clock: 126
+
+lifetime: 2
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+# 13283 #	
+| 3537 |	
+# 3660 #	
+
+clock: 127
+
+lifetime: 1
+
+clock: 128
+
+lifetime: 1
+
+clock: 129
+
+lifetime: 1
+
+clock: 130
+
+lifetime: 1
+
+clock: 131
+
+lifetime: 1
+
+clock: 132
+
+lifetime: 1
+
+clock: 133
+
+lifetime: 1
+
+clock: 134
+
+lifetime: 1
+
+clock: 135
+
+lifetime: 1
+
+clock: 136
+
+lifetime: 1
+
+clock: 137
+
+lifetime: 1
+processo terminato, stampa del nuovo stato di memoria
+stampa della memoria!
+
+# 20480 #	
+
+clock: 138
+
+lifetime: 0
+La media dei confronti effettuati dall'algoritmo first-fit e': 755.0
+e media 44.55%  di  frammentazioni esterne
+
